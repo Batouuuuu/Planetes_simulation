@@ -1,0 +1,1 @@
+Prérequis : bibliothèque Pygame
